@@ -1,0 +1,1 @@
+(rmarkdown-goodies :fetcher github :repo "gaballench/rmarkdown-goodies")
